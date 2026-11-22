@@ -10,13 +10,13 @@ BOT_TOKEN = "9151654935:AAFvM0iNx-BfP15pOMicxtARi4YB1F9TXZs"
 ADMIN_ID = 6214336913  # ដាក់ Telegram User ID របស់អ្នក (ជាលេខ)
 ADMIN_USERNAME = "PUVIN009"  # ដាក់ Username ដោយមិនបាច់មាន @
 ABA_GROUP_ID =  -1003803639749  # ដាក់ Group ID របស់ ABA AUTO PAY (ជាលេខអវិជ្ជមាន ឧ. -1003803639749) ឬទុក 0
-DATA_FILE = os.path.expanduser("~/bedastore/data.json")
-FILES_DIR = os.path.expanduser("~/bedastore/files")
+DATA_FILE = os.path.expanduser("./bedastore_data/data.json")
+FILES_DIR = os.path.expanduser("./bedastore_data/files")
 # =================================================
 
 if not BOT_TOKEN or BOT_TOKEN == "YOUR_BOT_TOKEN_HERE":
     print("❌ ERROR: អ្នកមិនទាន់បានដាក់ BOT_TOKEN ពិតប្រាកដទេ!")
-    print("👉 សូមវាយ: nano ~/bedastore/bot.py ហើយប្តូរ YOUR_BOT_TOKEN_HERE ទៅជា Token ពី @BotFather")
+    print("👉 សូមវាយ: nano ./bedastore_data/bot.py ហើយប្តូរ YOUR_BOT_TOKEN_HERE ទៅជា Token ពី @BotFather")
     sys.exit(1)
 
 os.makedirs(FILES_DIR, exist_ok=True)
