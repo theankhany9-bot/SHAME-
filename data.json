@@ -1,0 +1,263 @@
+{
+  "balances": {
+    "6214336913": 0.1,
+    "8998023886": 0.0,
+    "9139976398": 0.0
+  },
+  "orders": {
+    "6214336913": [],
+    "8998023886": [],
+    "9139976398": []
+  },
+  "categories": {
+    "esign": {
+      "name": "E-SIGN-Certificate (iPA)",
+      "products": [
+        {
+          "id": "es_1y",
+          "name": "Esing 1Y (ធានា2ខែ)",
+          "price": 3.5,
+          "stock": 0,
+          "items": [],
+          "emoji_id": null
+        }
+      ],
+      "emoji_id": null
+    },
+    "vpn": {
+      "name": "VPN PROXY.VIP (មានខ្សែ)",
+      "products": [
+        {
+          "id": "vpn_1h",
+          "name": "1H",
+          "price": 0.18,
+          "stock": 0,
+          "items": [],
+          "emoji_id": null
+        },
+        {
+          "id": "vpn_2h",
+          "name": "2H",
+          "price": 0.25,
+          "stock": 0,
+          "items": [],
+          "emoji_id": null
+        },
+        {
+          "id": "vpn_1d",
+          "name": "1D",
+          "price": 0.9,
+          "stock": 0,
+          "items": [],
+          "emoji_id": null
+        }
+      ],
+      "emoji_id": null
+    },
+    "fileza": {
+      "name": "FILEZA MOD (ប្រើe-sign)",
+      "products": [
+        {
+          "id": "fz_1m",
+          "name": "Fileza Mod 1M",
+          "price": 2.5,
+          "stock": 0,
+          "items": [],
+          "emoji_id": null
+        }
+      ],
+      "emoji_id": null
+    },
+    "airlift": {
+      "name": "AIRLIFT MOD iPA (ប្រើ e-sign)",
+      "products": [
+        {
+          "id": "al_1h",
+          "name": "1H",
+          "price": 0.25,
+          "stock": 0,
+          "items": [],
+          "emoji_id": null
+        },
+        {
+          "id": "al_6h",
+          "name": "6H",
+          "price": 0.7,
+          "stock": 0,
+          "items": [],
+          "emoji_id": null
+        },
+        {
+          "id": "al_12h",
+          "name": "12H",
+          "price": 0.9,
+          "stock": 0,
+          "items": [],
+          "emoji_id": null
+        }
+      ],
+      "emoji_id": null
+    },
+    "innova": {
+      "name": "INNOVA CHEAT (មិនប្រើ e-sign)",
+      "products": [
+        {
+          "id": "in_3h",
+          "name": "3H",
+          "price": 0.3,
+          "stock": 0,
+          "items": [],
+          "emoji_id": null
+        },
+        {
+          "id": "in_6h",
+          "name": "6H",
+          "price": 0.4,
+          "stock": 0,
+          "items": [],
+          "emoji_id": null
+        }
+      ],
+      "emoji_id": null
+    },
+    "proxythis": {
+      "name": "PROXY THIS.VIP (មិនប្រើ e-sign)",
+      "products": [
+        {
+          "id": "pt_2h",
+          "name": "2H",
+          "price": 0.4,
+          "stock": 0,
+          "items": [],
+          "emoji_id": null
+        },
+        {
+          "id": "pt_6h",
+          "name": "6H",
+          "price": 0.7,
+          "stock": 0,
+          "items": [],
+          "emoji_id": null
+        },
+        {
+          "id": "pt_12h",
+          "name": "12H",
+          "price": 1.2,
+          "stock": 0,
+          "items": [],
+          "emoji_id": null
+        },
+        {
+          "id": "pt_24h",
+          "name": "24H",
+          "price": 1.5,
+          "stock": 0,
+          "items": [],
+          "emoji_id": null
+        }
+      ],
+      "emoji_id": null
+    },
+    "rezz": {
+      "name": "REZZ PANEL (ios & android)",
+      "products": [],
+      "emoji_id": null
+    },
+    "drip": {
+      "name": "DRIP WIRE (ios & android)",
+      "products": [
+        {
+          "id": "dw_1d",
+          "name": "1D",
+          "price": 1.0,
+          "stock": 1,
+          "items": [
+            {
+              "type": "key",
+              "value": "2352850328"
+            }
+          ],
+          "emoji_id": null
+        }
+      ],
+      "emoji_id": null
+    },
+    "phantom": {
+      "name": "PHANTOM (ios & android)",
+      "products": [
+        {
+          "id": "ph_1d",
+          "name": "1D",
+          "price": 1.0,
+          "stock": 0,
+          "items": [],
+          "emoji_id": null
+        }
+      ],
+      "emoji_id": null
+    },
+    "primeko": {
+      "name": "PRIMEKO (ios & android)",
+      "products": [
+        {
+          "id": "pr_1d",
+          "name": "1D",
+          "price": 1.0,
+          "stock": 0,
+          "items": [],
+          "emoji_id": null
+        }
+      ],
+      "emoji_id": null
+    }
+  },
+  "qr_photo_id": "AgACAgUAAxkBAAIDqWsCt5urJemt_bJCpjw4QiEx-G3DAAKsFmsbTBYZVBMtly7dkm9lAQADAgADeQADPQQ",
+  "aba_txns": {
+    "179533949976288": {
+      "amount": 0.1,
+      "claimed_by": "6214336913",
+      "raw": "$0.10 ត្រូវបានបង់ដោយ SORN SEYHA (*401) នៅថ្ងៃទី 22 ខែវិច្ឆិកា ឆ្នាំ 2026 ម៉ោង 16:24 តាម ABA PAY នៅ SORN SEYHA។ លេខប្រតិបត្តិការ: 179533949976288។ APV: 451176។"
+    }
+  },
+  "pending_claims": {
+    "Ghjk124": [
+      "6214336913"
+    ],
+    "179492501467278": [
+      "6214336913"
+    ],
+    "8998023886": [
+      "8998023886"
+    ]
+  },
+  "admins": [
+    8998023886
+  ],
+  "home_buttons": {
+    "shop": {
+      "label": "buy Now / ទិញឥឡូវនេះ",
+      "emoji_id": "5312361253610475399",
+      "style": "success"
+    },
+    "orders": {
+      "label": "📝 My Order / ការបញ្ជាទិញរបស់ខ្ញុំ",
+      "emoji_id": null,
+      "style": "primary"
+    },
+    "balance": {
+      "label": "💰 Balance / តុល្យភាព",
+      "emoji_id": null,
+      "style": "primary"
+    },
+    "topup": {
+      "label": "⚡ Top Up Auto / បញ្ចូលទឹកប្រាក់អូតូ",
+      "emoji_id": null,
+      "style": "primary"
+    },
+    "contact": {
+      "label": "💬 Contact Admin / ទាក់ទងអ្នកគ្រប់គ្រង",
+      "emoji_id": null,
+      "style": "success"
+    }
+  }
+}
